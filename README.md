@@ -1,5 +1,4 @@
-# Secure-Web-App-with-ALB-EC2-in-Private-Subnets-No-NAT-Gateway
-This project demonstrates a complete Secure Web App with ALB + EC2 in Private Subnets (No NAT Gateway). 
+
 # 🚀 AWS Auto Scaling with Application Load Balancer
 ## Manual Setup Guide - AWS Console Only
 
